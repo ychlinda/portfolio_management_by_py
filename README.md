@@ -1,4 +1,4 @@
-### Coursework and projects for Investment Management with Python and Machine Learning SpecializationInvestment Management with Python:
+### Coursework and projects for EDHEC Investment Management with Python and Machine Learning SpecializationInvestment Management with Python:
 [Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning)
 
 
